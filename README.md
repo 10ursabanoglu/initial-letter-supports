@@ -18,13 +18,13 @@ p::first-letter {
 What we want to do here is to define the style for the first letter of the paragraph.
 
 ## Safari
-.
+![Safari](browsers/Safari.png?raw=true)
 
 Works perfectly smoothly.
 
 Now let's try it in firefox.
 
-.
+![Firefox-no-supports](browsers/firefox-no-supports.png?raw=true)
 
 
 Here we need to write the following support query to prevent bug appearance in browsers such as firefox and chrome.
@@ -41,7 +41,7 @@ Here we need to write the following support query to prevent bug appearance in b
 }
 ```
 
-.
+![Firefox-supports](browsers/firefox-supports.png?raw=true)
 
 Yes it works.
 
