@@ -65,7 +65,6 @@ https://codepen.io/Onursabanoglu/pen/XWjvQoq
 
 
 In the meantime, if you want to reach the current browser support, you can reach it from the link below.
-
 https://caniuse.com/?search=initial-letter
 
 
