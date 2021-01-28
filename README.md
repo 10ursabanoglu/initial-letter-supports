@@ -8,7 +8,6 @@ Initial letter CSS property allows us to set the style of the initial letters. U
 p::first-letter {
   color: #fc5000;
   margin-right: 0.5rem;
-  font-weight: bold;
 
   -webkit-initial-letter: 4;
   initial-letter: 4;
