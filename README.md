@@ -17,15 +17,24 @@ p::first-letter {
 
 What we want to do here is to define the style for the first letter of the paragraph.
 
+<p>&nbsp;</p>
+
 ## Safari
 ![Safari](browsers/Safari.png?raw=true)
 
 Works perfectly smoothly.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Firefox
 Now let's try it in firefox.
 
 ![Firefox-no-supports](browsers/firefox-no-supports.png?raw=true)
 
+Oh sadly it looks bad.
+
+<p>&nbsp;</p>
 
 Here we need to write the following support query to prevent bug appearance in browsers such as firefox and chrome.
 
@@ -46,12 +55,16 @@ Here we need to write the following support query to prevent bug appearance in b
 Yes it works.
 
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 In the meantime, if you want to reach the current browser support, you can reach it from the link below.
 
 https://caniuse.com/?search=initial-letter
+
+
+<p>&nbsp;</p>
 
 
 Also, if you want to examine the initial-letter feature in more detail, you can find it in the link below.
