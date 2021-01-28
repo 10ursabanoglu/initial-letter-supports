@@ -72,6 +72,5 @@ https://caniuse.com/?search=initial-letter
 <p>&nbsp;</p>
 
 
-Also, if you want to examine the initial-letter feature in more detail, you can find it in the link below.
-
+Finally, if you want to examine the first letter feature in more detail, you can find it in the link below.
 https://developer.mozilla.org/en-US/docs/Web/CSS/initial-letter
